@@ -1,9 +1,9 @@
-# Phase 2 Code Challenge WK2
+# Discover-Kenya-App
 
 #### By: Yegon G.K. (Software Engineer)
 
 #### Repository link
-https://github.com/KIPROTYCH/Phase2-Code-Challenge-WK2.git
+https://github.com/KIPROTYCH/Discover-Kenya-App.git
 
 
 ## Table of Content
